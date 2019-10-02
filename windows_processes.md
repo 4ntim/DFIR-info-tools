@@ -1,4 +1,4 @@
-System
+**bold** System **bold**
 
 The system process is responsible for the system memory and compressed memory in the NT kernel. 
 This system process is a single thread running on each processor. 
